@@ -6,6 +6,7 @@
     "serve": "vue-cli-service serve --open",
     "build": "vue-cli-service build"
   },
+  "author": "Kray",
   "dependencies": {
     "core-js": "^3.6.4",
     "vue": "^2.6.11"
